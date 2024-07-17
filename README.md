@@ -2,8 +2,6 @@
 
 ![image](https://github.com/user-attachments/assets/047d32b9-9889-4b9e-b6ba-fa22d515452d)
 
-- [Project Overview](Project-OverView)
-
 ## Project Overview
 These are two projects to showcase my skills in using Tableau to create various visualizations and reports to analyze sales and profit data. The tasks include generating detailed reports, forecasts, interactive dashboards, and story.
 
